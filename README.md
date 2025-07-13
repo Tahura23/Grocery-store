@@ -14,12 +14,10 @@ Tools & Technologies:
 - Database: Microsoft SQL Server
 - Frameworks: .Net, Entity Framework
 
-<a href="https://www.youtube.com/watch?v=TkHSKbZm1RM">Project Video Demo</a>
 
 ### Customer Side
 <img src="S8Screen.PNG" />
-<img src="S13Screen.PNG" />
+
 
 ### Admin Side
 <img src="S3Screen.PNG" />
-<img src="S5Screen.PNG" />
